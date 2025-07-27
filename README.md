@@ -8,7 +8,7 @@
 
 | 🔗 Live Site                | 📂 Client Code                      | ⚙️ Server Code                        |
 |----------------------------|-----------------------------------|-------------------------------------|
-| [codecircle](https://codecircle5.web.app) | [GitHub - Client](https://github.com/moshiurrahmandeap11/codeCircle-client) | [GitHub - Server](https://github.com/Programming-Hero-Web-Course4/b11a12-server-side-moshiurrahmandeap11) |
+| [codecircle](https://codecircle5.web.app) | [GitHub - Client](https://github.com/moshiurrahmandeap11/codeCircle-client) | [GitHub - Server](https://github.com/moshiurrahmandeap11/codeCircle-server) |
 
 ---
 
